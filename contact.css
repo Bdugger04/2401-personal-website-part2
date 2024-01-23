@@ -89,3 +89,10 @@ input{
 #submit{
   width:8vw;
 }
+input:hover{
+  background-color: #877978;
+}
+
+textarea:hover{
+  background-color: #877978;
+}
